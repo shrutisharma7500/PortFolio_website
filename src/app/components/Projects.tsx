@@ -5,28 +5,28 @@ import { Code } from "lucide-react";
 export function DirectionAwareHoverDemo() {
   const projects = [
     {
-      imageUrl: "/assets/schedulify.png",
-      title: "Schedulify",
-      description: "Schedulify is an AI-powered scheduling assistant that integrates autonomous agents to automate task management and calendar scheduling.",
-      codeLink: "https://github.com/shrutisharma7500/schedulify",
+      imageUrl: "/assets/empower.png",
+      title: "Empower_HER",
+      description: "The world's leading digital workspace for women's skill development, career growth, safety awareness, and mental wellness..",
+      codeLink: "https://github.com/shrutisharma7500/Empower-her",
     },
     {
-      imageUrl: "/assets/project2.png",
-      title: "NextDeploy",
-      description: "NextDeploy is a boilerplate Next.js project configured for smooth deployment on platforms like Vercel, Netlify, or custom servers.",
-      codeLink: "https://github.com/shrutisharma7500/CXI_website",
+      imageUrl: "/assets/port.png",
+      title: "PortfolioX",
+      description: "Generate a stunning, professional portfolio in minutes. Choose from elegant themes, add your projects, and go live instantly. No coding required.",
+      codeLink: "https://github.com/shrutisharma7500/PortfolioX",
     },
     {
-      imageUrl: "/assets/project3.png",
-      title: "JobLink",
-      description: "JobLink is a full-stack job portal built with React, Node.js, Express, and MongoDB. It enables seamless interaction between job seekers and employers with powerful features.",
-      codeLink: "#",
+      imageUrl: "/assets/ai.png",
+      title: "IntelliSchedule AI",
+      description: "An intelligent scheduling assistant powered by AI that helps you manage meetings, check availability, and send automatic email confirmations. Built with FastMCP, Cal.com integration, and multi-user authentication..",
+      codeLink: "https://github.com/shrutisharma7500/IntelliSchedule-AI",
     },
     {
-      imageUrl: "/assets/project1.png",
-      title: "BlogBreeze",
-      description: "BlogBreeze is a real-time blog website designed for sharing daily updates and engaging content.",
-      codeLink: "https://github.com/shrutisharma7500/nextjs-deploy",
+      imageUrl: "/assets/game.png",
+      title: "Signal Decoder",
+      description: "A challenging puzzle application that tests your ability to recognize and decode visual patterns from a 5×5 grid. Built with React, TypeScript, and Vite, featuring 6 progressively difficult levels..",
+      codeLink: "https://github.com/shrutisharma7500/Signal-decoder",
     },
   ];
 
